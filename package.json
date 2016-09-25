@@ -1,0 +1,15 @@
+{
+  "name": "cappuccino-syntax",
+  "theme": "syntax",
+  "version": "1.0.0",
+  "description": "Based on Espresso Cappuccino Syntax Theme",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/atom/cappuccino-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
